@@ -27,7 +27,7 @@ oop! unknow header Accept-Language: en-US,en;q=0.5
 
 在Firefox中输入IP，端口号及访问的文件路径
 
-![image-20230201104433322](E:\Lab\cs144\Linux高性能服务器\Project\ReadMe.assets\image-20230201104433322.png)
+![image-20230201104433322](./ReadMe.assets/image-20230201104433322.png)
 
 [Bug]：You do not have permission to get file from this server. 
 
